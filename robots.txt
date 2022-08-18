@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pictnews.github.io/technology/sitemapx.xml
